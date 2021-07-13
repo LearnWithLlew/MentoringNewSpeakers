@@ -5,6 +5,7 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
 
 toc 
 
+## How to Use this book
 ## Give the talk 
     *Record / Watch
     * Cringe is badness leaving your talk
