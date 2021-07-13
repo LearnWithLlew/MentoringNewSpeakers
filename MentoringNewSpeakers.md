@@ -20,7 +20,9 @@ toc
 ## Being true to the story - not the facts
 ## Two Person Talks
 ## Tips for Podcasts / Interviews
+## Appendix A: Short Reference
 
+include: ShortReference.md
 
 Maybe not:
 ___
