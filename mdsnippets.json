@@ -1,0 +1,5 @@
+﻿{
+  "ExcludeDirectories": [ "target" ],
+  "Convention": "InPlaceOverwrite",
+  "TocLevel": 5
+}
