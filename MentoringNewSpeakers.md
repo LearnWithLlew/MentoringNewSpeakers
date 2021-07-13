@@ -36,6 +36,9 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
 ## Being true to the story - not the facts
 ## Two Person Talks
 ## Tips for Podcasts / Interviews
+## Event Driven Practice
+* User groups
+* No new talks at conferences
 ## Appendix A: Short Reference
 
 # Short Reference <!-- include: ShortReference.md -->
