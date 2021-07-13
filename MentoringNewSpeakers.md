@@ -18,6 +18,7 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
   * [Being true to the story - not the facts](#being-true-to-the-story---not-the-facts)
   * [Two Person Talks](#two-person-talks)
   * [Tips for Podcasts / Interviews](#tips-for-podcasts--interviews)
+  * [Appendix A: Short Reference](#appendix-a-short-reference)
   * [Slides](#slides)<!-- endToc -->
 
 ## How to Use this book
@@ -37,7 +38,9 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
 ## Tips for Podcasts / Interviews
 ## Appendix A: Short Reference
 
-include: ShortReference.md
+# Short Reference <!-- include: ShortReference.md -->
+
+todo: capture all the callouts here.... <!-- endInclude -->
 
 Maybe not:
 ___
