@@ -8,6 +8,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: Generate PDFs
       run: |
+        pwd
+        ls
         generate_pdfs.sh
       shell: bash
     - name: Push changes
