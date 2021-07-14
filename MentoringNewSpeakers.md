@@ -23,6 +23,17 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
   * [Slides](#slides)<!-- endToc -->
 
 ## How to Use this book
+
+
+This book is a collection of the most common exericises I use to help mentor new speakers.
+
+Who am I?  I'm Llewellyn Falco. I've been a technical speaker for 2 decades and have given 1,000's of presentations across the USA and Europe. I've also mentored a few new speakers and in that process, I've started to notice a few 'goto' activities I use with them to help them find their voice and improve their presentation. The purpose of this book is the give you much of the same benifit of working with me on your own.
+
+My co-author is Gillian M Lee. She is a author and speaker and one of the people I helped mentor in her speaking journey. Besides her obvisous help in making this text readable, Gillian is here to be an an advocate for the new speakers reading this. Not only to keep me honest, but to ensure that these exericises are understandable and complete. 
+
+Together, we hope we can give you some practical tips to help make your talks more meanful to your audience and more relaxing and fun for you to deliver.
+
+
 ## Give the talk 
     *Record / Watch
     * Cringe is badness leaving your talk
