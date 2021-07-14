@@ -1,0 +1,21 @@
+name: Generate PDFs
+on:
+  push:
+jobs:
+  update-markdown-snippets:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run MarkdownSnippets
+      run: |
+        npx md-to-pdf MentoringNewSpeakers.md --basedir ./pdf
+      shell: bash
+    - name: Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "d generated PDFs" -a  || echo "nothing to commit"
+        remote="https://${GITHUB_ACTOR}:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git"
+        branch="${GITHUB_REF:11}"
+        git push "${remote}" ${branch} || echo "nothing to push"
+      shell: bash
