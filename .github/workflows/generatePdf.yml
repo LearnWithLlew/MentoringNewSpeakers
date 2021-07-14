@@ -2,13 +2,13 @@ name: Generate PDFs
 on:
   push:
 jobs:
-  update-markdown-snippets:
-    runs-on: windows-latest
+  generate-pdf:
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Generate PDFs
       run: |
-        npx md-to-pdf MentoringNewSpeakers.md --basedir ./pdf
+        generate_pdfs.sh
       shell: bash
     - name: Push changes
       run: |
