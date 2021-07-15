@@ -44,25 +44,31 @@ Llewellyn would never do all these exercises with someone he's mentoring in one 
 
 This book is for anyone who wants to speak with more confidence and change the way people act as a result of their presentation. 
 
-It is also for people who are mentoring new speakers themselves and would like some guidance on how what to do and what exercises might fix the problems that they are detecting. Many times the mentor knows what's wrong. It is obvious to them, however getting the new person to walk a path to the solution may be difficult. When Llewellyn started mentoring people, he would say, "Story not "
-And they would say, "I *am* telling a story" These exercises helped him to get them to move. We have collected these exercises here for you.
+It is also for people who are mentoring new speakers themselves and would like some guidance on how what to do and what exercises might fix the problems that they are detecting. Many times the mentor knows what's wrong. It is obvious to them, however, getting the new person to walk a path to the solution may be difficult. 
+
+When Llewellyn started mentoring people, he would say,  
+"You need to tell a story "
+And they would reply, "I *am* telling a story." 
+
+ These exercises helped him to get them to move.  
+ This is why we have collected these exercises for you here.
 
 ## The importance of practice
 
 ## 1. Give the talk
-The very first thing that Llewellyn has people do when they ask him to help them with a talk is ask them to give the talk to him. They are never ready to do this. I am never ready to do this. That's ok. Our goal is not to give a good talk. It is only to give a talk. Doing this will force something to come out of your mouth. And then we can start to work on that. 
+The very first thing that Llewellyn has people do when they ask him to help them with a talk is to ask them to give the talk to him. They are never ready to do this. I am never ready to do this. That's ok. Our goal is not to give a good talk. It is only to give a talk. Doing this will force something to come out of your mouth. And then we can start to work on that. 
 
-This first attempt we are going to record. It doesn't matter if it only lasts five mintues for an hour long session; we need to capture something. And we are going to want to be able to review it. Usually, Llewellyn just uses his phone for this or if on Zoom hits the record button. These recording are not permanent and are deleted immediately after watching them.
+We are going to record this first attempt. It doesn't matter if it only lasts five minutes for an hour-long session; we need to capture something. And we are going to want to be able to review it. Usually, Llewellyn simply uses his phone for this, or if on 'Zoom' he will hit the record button. These recordings are not permanent and are deleted immediately after watching them.
 
-If the person is extremely nervous about being recorded. I suggest using their phone so that they have complete control over the recording. 
+**note:** If the person is extremely nervous about being recorded. I suggest using their phone so that they have complete control over the recording. 
 
 ### Watch the Talk
 
-Immediately after giving the first version, watch it together. There are a couple things to notice about this. The first is that some of it will be painful to watch. That cringe is the badness leaving your talk. Nothing is more powerful for removing something you dislike than seeing yourself do it. It can take decades before you can watch yourself without cringing, so be patient.
+Immediately after giving the first version, watch it together. There are a couple of things to notice about this. The first is that some of it will be painful to watch. That cringe is the badness leaving your talk. Nothing is more powerful for removing something you dislike than seeing yourself do it. It can take decades before you can watch yourself without cringing, so be patient.
 
 Next, focus on the pieces that you liked from the session. Those are the pieces that we want to grow. You will get more out of having wonderful pieces in your talk than removing all of the bad. 
 
-A nice advantage of having it recorded is that you can rewind sections. Sometimes you will say something you wish you had the exact words for and you can grab that from the recording. And other times, you want to revist a section that is important that wasn't quite expressed correctly. Re-watching sections of a talk is a great way of mining the talk for gems. 
+A nice advantage of having it recorded is that you can rewind sections. Sometimes you will say something you wish you had the exact words for and you can grab that from the recording. And other times, you want to revisit a section that is important that wasn't quite expressed correctly. Re-watching sections of a talk is a great way of mining the talk for gems. 
 
 ## What is the take-a-way of your talk?
    
@@ -78,7 +84,7 @@ A nice advantage of having it recorded is that you can rewind sections. Sometime
 
 One of the best ways to get people to remember things months later is through the power of stories. This is the opposite of how most people structure their talks. They want to summarize what they've learned hoping that they can just share the end result. This would be wonderful if it worked, but it doesn't. 
 
-Everybody has something important to share. Jessica Kerr says "Give a talk to you last year" There are a thousand people who are where you were last year and would appreciate the help and advice. This means they need to hear **your** story. Many of the exercises that follow are about how to figure out and tell **your** story rather than just your bullet points. 
+Everybody has something important to share. Jessica Kerr's advice is to "Give a talk to yourself last year" There are a thousand people who are where you were last year and would appreciate the help and advice. This means they need to hear **your** story. Many of the exercises that follow are about how to figure out and tell **your** story rather than just your bullet points. 
 
 ## 2. Story or Summary
 
