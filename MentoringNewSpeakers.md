@@ -68,6 +68,11 @@ A nice advantage of having it recorded is that you can rewind sections. Sometime
    Distilling the most important thing is hard! It means getting rid of a lot of things that are genuinely important for the sole purpose of allowing one thing to shine through months later. 
 
 ## The importance of Stories
+
+One of the best ways to get people to remember things months later is through the power of stories. This is the opposite of how most people structure their talks. They want to summarize what they've learned hoping that they can just share the end result. This would be wonderful if it worked, but it doesn't. 
+
+Everybody has something important to share. Jessica Kerr says "Give a talk to you last year" There are a thousand people who are where you were last year and would appreciate the help and advice. This means they need to hear **your** story. Many of the exercises that follow are about how to figure out and tell **your** story rather than just your bullet points. 
+
 ## Story or Summary
 ## Your Specifics
 ## Timing exericises - (1, 5, 50)
