@@ -42,7 +42,7 @@ This book is for anyone who wants to speak with more confidence and change the w
 It is also for people who are mentoring new speakers themselves and would like some guidance on how what to do and what exercises might fix the problems that they are detecting. Many times the mentor knows what's wrong. It is obvious to them, however getting the new person to walk a path to the solution may be difficult. When Llewellyn started mentoring people, he would say, "Story not "
 And they would say, "I *am* telling a story" These exercises helped him to get them to move. We have collected these exercises here for you.
 
-## Give the talk
+## 1.Give the talk
 The very first thing that Llewellyn has people do when they ask him to help them with a talk is ask them to give the talk to him. They are never ready to do this. I am never ready to do this. That's ok. Our goal is not to give a good talk. It is only to give a talk. Doing this will force something to come out of your mouth. And then we can start to work on that. 
 
 This first attempt we are going to record. It doesn't matter if it only lasts five mintues for an hour long session; we need to capture something. And we are going to want to be able to review it. Usually, Llewellyn just uses his phone for this or if on Zoom hits the record button. These recording are not permanent and are deleted immediately after watching them.
@@ -58,7 +58,15 @@ Next, focus on the pieces that you liked from the session. Those are the pieces 
 A nice advantage of having it recorded is that you can rewind sections. Sometimes you will say something you wish you had the exact words for and you can grab that from the recording. And other times, you want to revist a section that is important that wasn't quite expressed correctly. Re-watching sections of a talk is a great way of mining the talk for gems. 
 
 ## What is the take-a-way of your talk?
-    * Finding the essence of the talk.
+   
+   One of the first things that new speakers try to do in their talks is pack them full of lessons. Sometimes they do that right away with the title - Ten things I learned from our last project. Although this works great for articles and books, notice our own title, however this makes for a very bad spoken session.
+
+   The reason is memory. Someone who sees your talk is almost never going to act on it immediately. Usually, they won't act on it for even weeks or months later when the time is right for them to use what they learned from your talk. 
+
+   I can't remember ten bullet points two months later. You can remember one important message. So the whole talk needs to be structured around this one thing that you want people to take away.
+
+   Distilling the most important thing is hard! It means getting rid of a lot of things that are genuinely important for the sole purpose of allowing one thing to shine through months later. 
+
 ## The importance of Stories
 ## Story or Summary
 ## Your Specifics
