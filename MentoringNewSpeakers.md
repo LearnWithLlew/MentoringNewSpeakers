@@ -42,7 +42,7 @@ This book is for anyone who wants to speak with more confidence and change the w
 It is also for people who are mentoring new speakers themselves and would like some guidance on how what to do and what exercises might fix the problems that they are detecting. Many times the mentor knows what's wrong. It is obvious to them, however getting the new person to walk a path to the solution may be difficult. When Llewellyn started mentoring people, he would say, "Story not "
 And they would say, "I *am* telling a story" These exercises helped him to get them to move. We have collected these exercises here for you.
 
-## 1.Give the talk
+## 1. Give the talk
 The very first thing that Llewellyn has people do when they ask him to help them with a talk is ask them to give the talk to him. They are never ready to do this. I am never ready to do this. That's ok. Our goal is not to give a good talk. It is only to give a talk. Doing this will force something to come out of your mouth. And then we can start to work on that. 
 
 This first attempt we are going to record. It doesn't matter if it only lasts five mintues for an hour long session; we need to capture something. And we are going to want to be able to review it. Usually, Llewellyn just uses his phone for this or if on Zoom hits the record button. These recording are not permanent and are deleted immediately after watching them.
@@ -73,7 +73,31 @@ One of the best ways to get people to remember things months later is through th
 
 Everybody has something important to share. Jessica Kerr says "Give a talk to you last year" There are a thousand people who are where you were last year and would appreciate the help and advice. This means they need to hear **your** story. Many of the exercises that follow are about how to figure out and tell **your** story rather than just your bullet points. 
 
-## Story or Summary
+## 2. Story or Summary
+
+Very often, people find it hard to actually tell a story. This exercise (from Kevin Allison's Intro to storytelling course on Udemy) is helpful to move into storytelling.
+
+### Steps
+1. Record the story. 
+1. Replay one sentence of the story.
+    1. Identify if that sentence was a **story** or **summary**
+1. Repeat for each sentence.
+The power of this exercise is in seeing how much story you have vs summary. For many new speakers, they end up with 100% summary. To be clear, the goal is not to have 100% story. The goal is not 100% but you need it to be more balanced.
+
+### Story vs. Summary
+
+> We were unprepared for the outage.
+
+The above is an example of **summmary** It tells us what happened but doesn't allow us to relive it. If we were to convert it to a **story**, it might sound something like,
+
+> I woke up to the phone ringing at 7am and my boss screaming,   
+> No one has been able to place an order since 2am this morning. We've lost over $2.5 million of revenue.
+Notice **story** allows you to relive the experience whereas **summary** allows someone who has lived it to remember it. 
+
+
+
+
+
 ## Your Specifics
 ## Timing exericises - (1, 5, 50)
 ## Role PLaying - Using emotion in your story
