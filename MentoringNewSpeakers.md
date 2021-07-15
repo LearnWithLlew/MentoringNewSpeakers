@@ -8,6 +8,7 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
 
   * [How to Use this book](#how-to-use-this-book)
     * [Who is this book for?](#who-is-this-book-for)
+  * [The importance of practice](#the-importance-of-practice)
   * [1. Give the talk](#1-give-the-talk)
     * [Watch the Talk](#watch-the-talk)
   * [What is the take-a-way of your talk?](#what-is-the-take-a-way-of-your-talk)
