@@ -25,18 +25,38 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
 ## How to Use this book
 
 
-This book is a collection of the most common exericises I use to help mentor new speakers.
+This book is a collection of the most common exercises I use to help mentor new speakers.
 
-Who am I?  I'm Llewellyn Falco. I've been a technical speaker for 2 decades and have given 1,000's of presentations across the USA and Europe. I've also mentored a few new speakers and in that process, I've started to notice a few 'goto' activities I use with them to help them find their voice and improve their presentation. The purpose of this book is the give you much of the same benifit of working with me on your own.
+Who am I?  I'm Llewellyn Falco. I've been a technical speaker for 2 decades and have given 1,000's of presentations across the USA and Europe. I've also mentored a few new speakers and in that process, I've started to notice a few 'goto' activities I use with them to help them find their voice and improve their presentation. The purpose of this book is the give you much of the same benefits of working with me on your own.
 
-My co-author is Gillian M Lee. She is a author and speaker and one of the people I helped mentor in her speaking journey. Besides her obvisous help in making this text readable, Gillian is here to be an an advocate for the new speakers reading this. Not only to keep me honest, but to ensure that these exericises are understandable and complete. 
+My co-author is Gillian M Lee. She is a author and speaker and one of the people I helped mentor in her speaking journey. Besides her obvious help in making this text readable, Gillian is here to be an an advocate for the new speakers reading this. Not only to keep me honest, but to ensure that these exercises are understandable and complete. 
 
-Together, we hope we can give you some practical tips to help make your talks more meanful to your audience and more relaxing and fun for you to deliver.
+Together, we hope we can give you some practical tips to help make your talks more meaningful to your audience and more relaxing and fun for you to deliver.
 
+We suggest you start by going through these sections in order the first time, and then pick and choose as you revisit the exercises later. We also suggest that you do this book in small parts rather than one big long read so that you have energy to do the exercises. Llewellyn would never do all these exercises with someone he's mentoring in one session
 
-## Give the talk 
-    *Record / Watch
-    * Cringe is badness leaving your talk
+### Who is this book for? 
+
+This book is for anyone who wants to speak with more confidence and change the way people act as a result of their presentation. 
+
+It is also for people who are mentoring new speakers themselves and would like some guidance on how what to do and what exercises might fix the problems that they are detecting. Many times the mentor knows what's wrong. It is obvious to them, however getting the new person to walk a path to the solution may be difficult. When Llewellyn started mentoring people, he would say, "Story not "
+And they would say, "I *am* telling a story" These exercises helped him to get them to move. We have collected these exercises here for you.
+
+## Give the talk
+The very first thing that Llewellyn has people do when they ask him to help them with a talk is ask them to give the talk to him. They are never ready to do this. I am never ready to do this. That's ok. Our goal is not to give a good talk. It is only to give a talk. Doing this will force something to come out of your mouth. And then we can start to work on that. 
+
+This first attempt we are going to record. It doesn't matter if it only lasts five mintues for an hour long session; we need to capture something. And we are going to want to be able to review it. Usually, Llewellyn just uses his phone for this or if on Zoom hits the record button. These recording are not permanent and are deleted immediately after watching them.
+
+If the person is extremely nervous about being recorded. I suggest using their phone so that they have complete control over the recording. 
+
+### Watch the Talk
+
+Immediately after giving the first version, watch it together. There are a couple things to notice about this. The first is that some of it will be painful to watch. That cringe is the badness leaving your talk. Nothing is more powerful for removing something you dislike than seeing yourself do it. It can take decades before you can watch yourself without cringing, so be patient.
+
+Next, focus on the pieces that you liked from the session. Those are the pieces that we want to grow. You will get more out of having wonderful pieces in your talk than removing all of the bad. 
+
+A nice advantage of having it recorded is that you can rewind sections. Sometimes you will say something you wish you had the exact words for and you can grab that from the recording. And other times, you want to revist a section that is important that wasn't quite expressed correctly. Re-watching sections of a talk is a great way of mining the talk for gems. 
+
 ## What is the take-a-way of your talk?
     * Finding the essence of the talk.
 ## The importance of Stories
