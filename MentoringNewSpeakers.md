@@ -31,13 +31,14 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
 
 This book is a collection of the most common exercises I use to help mentor new speakers.
 
-Who am I?  I'm Llewellyn Falco. I've been a technical speaker for 2 decades and have given 1,000's of presentations across the USA and Europe. I've also mentored a few new speakers and in that process, I've started to notice a few 'goto' activities I use with them to help them find their voice and improve their presentation. The purpose of this book is the give you much of the same benefits of working with me on your own.
+Who am I?  I'm Llewellyn Falco. I've been a technical speaker for two decades and have given 1,000's of presentations across the USA and Europe. I've also mentored a few new speakers and in that process, I've started to notice a few 'goto' activities I use with them to help them to help them find their voice and improve their presentation. The purpose of this book is to give you much of the same benefits of working with me on your own.
 
-My co-author is Gillian M Lee. She is a author and speaker and one of the people I helped mentor in her speaking journey. Besides her obvious help in making this text readable, Gillian is here to be an an advocate for the new speakers reading this. Not only to keep me honest, but to ensure that these exercises are understandable and complete. 
+My co-author is Gillian M Lee. She is an author and speaker and one of the people I helped mentor in her speaking journey. Besides her obvious help in making this text readable, Gillian is here to be an advocate for the new speakers reading this. Not only to keep me honest but to ensure that these exercises are understandable and complete. 
 
 Together, we hope we can give you some practical tips to help make your talks more meaningful to your audience and more relaxing and fun for you to deliver.
 
-We suggest you start by going through these sections in order the first time, and then pick and choose as you revisit the exercises later. We also suggest that you do this book in small parts rather than one big long read so that you have energy to do the exercises. Llewellyn would never do all these exercises with someone he's mentoring in one session
+We suggest you start by going through these sections in order the first time, and then pick and choose as you revisit the exercises later. Because the value you get from the book will be in the **doing of the exercises**, we also suggest that you do this book in small parts rather than one big long read. This will help you to have the energy needed to put into each exercise.   
+Llewellyn would never do all these exercises with someone he's mentoring in one session.
 
 ### Who is this book for? 
 
@@ -45,6 +46,8 @@ This book is for anyone who wants to speak with more confidence and change the w
 
 It is also for people who are mentoring new speakers themselves and would like some guidance on how what to do and what exercises might fix the problems that they are detecting. Many times the mentor knows what's wrong. It is obvious to them, however getting the new person to walk a path to the solution may be difficult. When Llewellyn started mentoring people, he would say, "Story not "
 And they would say, "I *am* telling a story" These exercises helped him to get them to move. We have collected these exercises here for you.
+
+## The importance of practice
 
 ## 1. Give the talk
 The very first thing that Llewellyn has people do when they ask him to help them with a talk is ask them to give the talk to him. They are never ready to do this. I am never ready to do this. That's ok. Our goal is not to give a good talk. It is only to give a talk. Doing this will force something to come out of your mouth. And then we can start to work on that. 
