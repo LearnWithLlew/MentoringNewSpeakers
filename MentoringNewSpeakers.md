@@ -113,6 +113,23 @@ Notice **story** allows you to relive the experience whereas **summary** allows 
 
 
 ## Your Specifics
+
+Pay attention the next time you are reading a book from your favorite author. Notice how many words are involved in the details of the scene. This isn't by accident. The story teller is trying to get you to suspend your disbelief and re-live the story they are telling. 
+
+Almost every business book tells the story of someone at a failing company who tries a new process and ends up turning around the company to outstanding success. It's the specifics of that story that make the book interesting.
+
+It's the specifics of **your story** that allows others to learn from it as if they have gone through it themselves. If you just say what you learned, you remove the chance for them to have those learning be impactful
+
+What will make your story, **your story** is the specifics. What are people's names? What were the details of that argument? Details make the story real, more so than the lesson.   
+
+*Twilight and Fifty Shades of Gray are the same story.
+*Cinderella and Pretty Woman
+
+What are the details that let you live the story as if you were there? Does it feel real to the person listening? 
+
+ Very often when people are trying to tell their story, they make it very generic so that it will fit anybody. Abstract lessons are the opposite o what we want people to do.
+
+
 ## Timing exericises - (1, 5, 50)
 ## Role PLaying - Using emotion in your story
 ## Setting/Character/Plot/Conflict/Resolution
