@@ -127,10 +127,41 @@ What will make your story, **your story** is the specifics. What are people's na
 
 What are the details that let you live the story as if you were there? Does it feel real to the person listening? 
 
- Very often when people are trying to tell their story, they make it very generic so that it will fit anybody. Abstract lessons are the opposite o what we want people to do.
+ Very often when speakers are trying to tell their story, they make it very generic so that it will fit any listener. Unfortunately, abstract lessons are the opposite of how people learn and not what a speaker should do.
 
 
-## Timing exericises - (1, 5, 50)
+
+
+
+
+## Timing exercises - (1, 5, 50)
+
+Any given instance of a presentation is going to combine three factors:
+* The presentation and events that are being told
+* The presenter and what they are trying to emphasize in that moment
+* The audience and what they are receptive to
+
+
+As such, presentations are different from the script at play. And they are more reactive and involve some improvisation. This means that is very hard to get your timings to work as planned.
+
+Instead, it is better to be able to adjust how you present each section. And be aware of the time. A great exercise to help speakers become comfortable with adjusting their time is to give your presentation at wildly different time scales. Here's how:
+
+### Assumptions and adjustments
+
+Many of the first-time speakers that I'm working with are giving ten to twenty minute talks with ten to twenty slides. The following times are based on that structure. If you are giving a much longer or much shorter talk, adjust accordingly. Likewise, if you're slide to talk ratio is much different, you will often need to adjust.
+
+### #1 The one-minute talk
+
+This sounds ridiculous but set a one-minute time and try to speed run through your talk. In doing this you will find that you not only shorten explanations but skip entire slides and sections. You also figure out what is the essential core of your presentation.
+
+### #2 The five-minute talk
+
+Like above this is going to be a much quicker than normal telling. It will build on the essential core and give you enough time so that you don't need to cut out sections or slides. This is really helpful when you realize that you are running behind while onstage.
+
+### #3 The fifty-minute talk, one slide of
+
+Here we want to work on really delving into each slide. But we don't want to take fifty minutes to do the whole talk. So pick a slide randomly from the deck and set a five-minute timer for just that slide. It's best if the slide is smaller. So that you really have to pull out details and depth. This is great for when you have more time or you realize that you need more focus in this are for this audience.
+
 ## Role PLaying - Using emotion in your story
 ## Setting/Character/Plot/Conflict/Resolution
 ## Being true to the story - not the facts
