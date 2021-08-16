@@ -121,6 +121,11 @@ Notice **story** allows you to relive the experience whereas **summary** allows 
 
 
 
+## Being true to the story - not the facts
+
+There is an essence of your story which you are trying to convey to your audience. There are also historical facts of your story. Sometimes these can confuse or muddy your story. Sometime these can be in direct conflict. My advice is to prioritize your story and its message. As such, use facts when they are convenient. And disregard them or even make them up when they are not. 
+
+
 
 ## Your Specifics
 
@@ -144,14 +149,15 @@ What are the details that let you live the story as if you were there? Does it f
 
 
 
-## Timing exercises - (1, 5, 50)
+## 3. Timing exercises - (1, 5, 50)
+
 
 Any given instance of a presentation is going to combine three factors:
 * The presentation and events that are being told
 * The presenter and what they are trying to emphasize in that moment
 * The audience and what they are receptive to
 
-
+![Fig 1 - instance of a story](images\instance_of_a_story.png)  
 As such, presentations are different from the script at play. And they are more reactive and involve some improvisation. This means that is very hard to get your timings to work as planned.
 
 Instead, it is better to be able to adjust how you present each section. And be aware of the time. A great exercise to help speakers become comfortable with adjusting their time is to give your presentation at wildly different time scales. Here's how:
@@ -172,9 +178,46 @@ Like above this is going to be a much quicker than normal telling. It will build
 
 Here we want to work on really delving into each slide. But we don't want to take fifty minutes to do the whole talk. So pick a slide randomly from the deck and set a five-minute timer for just that slide. It's best if the slide is smaller. So that you really have to pull out details and depth. This is great for when you have more time or you realize that you need more focus in this are for this audience.
 
-## Role PLaying - Using emotion in your story
+### The importance of clocks 
+
+Now that you have stretched your talk to its limits and compressed it to its essence, you can safely adjust the length on the fly during the presentation.
+
+To do this, you will need some sort of clock plus an idea of were you would like to be in your presentation at key intervals. This way, you can tell if you are running fast or slow, and adjust accordingly. This means you want to know 13 minutes in that you need to speed up, not find out 5 minutes before the end that you need to cut off the end of the story. 
+
+If you are presenting remotely, you will need a clock or count-down timer in your office, visible while you are looking at your camera. If you are presenting in person, you should assume that this will not be provided. Instead set up a count down timer on your phone or tablet. And bring a stand or a holder so you can make it visible to you from the stage. 
+
+For example, I go on stage at 10:18 for my 10:30 talk which is set to last 30 minutes. I immediately pull out my iPad and set the count down timer for 42 minutes and start it. I place it on the side of the stage, visible to me. I know that when it gets down to thirty minutes, I need to start my presentation. When it hits zero, I need to be done.  
+
 ## Setting/Character/Plot/Conflict/Resolution
-## Being true to the story - not the facts
+
+## Role PLaying - Using emotion in your story
+
+If you are telling a sad story, but you yourself are not sad, your audience won't be either. They are going to look to your emotions for cues on how they should feel. This means that if your boss is angry, you need to be using an angry voice. If your team is celebrating, you need to be using a happy, excited voice. 
+
+This does not come naturally to new speakers. It means that when you are telling stories in the voices of the characters in your stories, those characters need to have their own voice. This can mean creating accents for them, but more importantly, it means emoting when speaking in their voice. 
+
+Because this feels more appropriate in theatre than a boardroom, it's going to take some practice. 
+
+### Developing your character's characteristics
+
+For example, one of our characters was Bob the salesman. 
+
+"What's Bob like?" I asked. 
+
+"Oh, he's big and boisterous. Whenever he talks , he waves his hands around alot. And he like to make statements like 'This is going to the be the best ever!' He's very different than Suzie. 
+
+"Oh, What's Suzie like?"
+
+"Suzie is shy and demure. She is small and she makes herself even smaller by hunching her shoulders. When she talks, you can barely hear her voice. And it feels like she's always apologizing."
+
+You need your characters to come to life. This means that they need to have a personality. This doesn't have to mirror their actual personality. It can be a heightened or exaggerated version or you can make it up completely for dramatic effect. But they have to have a personality. 
+
+Once you've fleshed out their personalities, you're going to need to practice role playing them. This is really simple. 
+
+Take a single character and start by just having them say the parts of their story in their voices. It will feel silly at first, but with practice, it will feel more natural to say their parts of the story in their voice than not to.
+
+
+
 ## Two Person Talks
 ## Tips for Podcasts / Interviews
 ## Event Driven Practice
