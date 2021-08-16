@@ -25,6 +25,7 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
   * [Tips for Podcasts / Interviews](#tips-for-podcasts--interviews)
   * [Event Driven Practice](#event-driven-practice)
   * [Appendix A: Short Reference](#appendix-a-short-reference)
+    * [Special Thanks](#special-thanks)
   * [Slides](#slides)<!-- endToc -->
 
 ## How to Use this book
