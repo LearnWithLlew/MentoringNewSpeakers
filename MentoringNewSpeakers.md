@@ -118,6 +118,8 @@ The above is an example of **summmary** It tells us what happened but doesn't al
 
 > I woke up to the phone ringing at 7am and my boss screaming,   
 > No one has been able to place an order since 2am this morning. We've lost over $2.5 million of revenue.
+
+
 Notice **story** allows you to relive the experience whereas **summary** allows someone who has lived it to remember it. 
 
 
@@ -127,6 +129,9 @@ Notice **story** allows you to relive the experience whereas **summary** allows 
 
 There is an essence of your story which you are trying to convey to your audience. There are also historical facts of your story. Sometimes these can confuse or muddy your story. Sometime these can be in direct conflict. My advice is to prioritize your story and its message. As such, use facts when they are convenient. And disregard them or even make them up when they are not. 
 
+> “Get your facts first, and then you can distort them as much as you please.”
+> 
+>  ― Mark Twain
 
 
 ## Your Specifics
