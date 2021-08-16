@@ -25,6 +25,7 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
   * [Tips for Podcasts / Interviews](#tips-for-podcasts--interviews)
   * [Event Driven Practice](#event-driven-practice)
   * [Appendix A: Short Reference](#appendix-a-short-reference)
+    * [Special Thanks](#special-thanks)
   * [Slides](#slides)<!-- endToc -->
 
 ## How to Use this book
@@ -65,11 +66,16 @@ We are going to record this first attempt. It doesn't matter if it only lasts fi
 
 ### Watch the Talk
 
-Immediately after giving the first version, watch it together. There are a couple of things to notice about this. The first is that some of it will be painful to watch. That cringe is the badness leaving your talk. Nothing is more powerful for removing something you dislike than seeing yourself do it. It can take decades before you can watch yourself without cringing, so be patient.
+Immediately after giving the first version, watch it together and pay attention to these few things;  
+The first is that some of it will be painful to watch. 
+> That cringe is the badness leaving your talk.
+Nothing is more powerful for removing something you dislike than seeing yourself do it. It can take decades before you can watch yourself without cringing, so be patient.
 
-Next, focus on the pieces that you liked from the session. Those are the pieces that we want to grow. You will get more out of having wonderful pieces in your talk than removing all of the bad. 
+Next, focus on the pieces that **you liked** from the session. Those are the pieces that you will want to grow. You will get more out of having wonderful pieces in your talk than removing all of the bad. 
 
-A nice advantage of having it recorded is that you can rewind sections. Sometimes you will say something you wish you had the exact words for and you can grab that from the recording. And other times, you want to revisit a section that is important that wasn't quite expressed correctly. Re-watching sections of a talk is a great way of mining the talk for gems. 
+Finally, a nice advantage of having it recorded is that you can rewind sections. Sometimes you will say something you wish you had the exact words for and you can grab that from the recording. And other times, you want to revisit a section that is important that wasn't quite expressed correctly. Re-watching sections of a talk is a great way of mining the talk for gems. 
+
+> **Tip:** One advantage of recording your practice sessions is that once you get one you like, you can practice and review simply by watching your recording. This can be very helpful when given a talk again after a few weeks or month. Just put it on and load it into your working memory.
 
 ## What is the take-a-way of your talk?
    
@@ -175,6 +181,12 @@ Here we want to work on really delving into each slide. But we don't want to tak
 # Short Reference <!-- include: ShortReference.md -->
 
 todo: capture all the callouts here.... <!-- endInclude -->
+
+
+### Special Thanks
+Many people helped proofread and offered advice in the creation of this book. Thank you to each and everyone one:
+* Nazee Hajebi
+
 
 Maybe not:
 ___
