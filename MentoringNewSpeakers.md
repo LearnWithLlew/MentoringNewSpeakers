@@ -164,7 +164,7 @@ Any given instance of a presentation is going to combine three factors:
 * The presenter and what they are trying to emphasize in that moment
 * The audience and what they are receptive to
 
-![Fig 1 - instance of a story](images\instance_of_a_story.png)  
+![Fig 1 - instance of a story](./images/instance_of_a_story.png)  
 As such, presentations are different from the script at play. And they are more reactive and involve some improvisation. This means that is very hard to get your timings to work as planned.
 
 Instead, it is better to be able to adjust how you present each section. And be aware of the time. A great exercise to help speakers become comfortable with adjusting their time is to give your presentation at wildly different time scales. Here's how:
