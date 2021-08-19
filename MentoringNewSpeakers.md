@@ -226,6 +226,36 @@ Take a single character and start by just having them say the parts of their sto
 
 
 ## Two Person Talks
+
+There are many advantages to giving a talk with a co-presenter. Unfortunately, many people approach this as a way of dividing a talk into two sections, one for each speaker. Often they will interleave these sections to make it less obvious, but this is not a good technique for a two person talk. The rule that I try to follow is this. 
+
+>A two person should not be able to be delivered by a single person.
+
+A great example of a two person presentation is the skit "Who's on first? What's on second?" by Abbott and Costello. First, this follows the rule that this couldn't be done by just Abbott or just Castello. It also takes advantage of each personality to play off each other. Finally they are talking to each other, instead of each of them taking turns talking to the audience. 
+
+This final difference is one of the major differences between a one person talk and two-person talk. In a one-person talk, you have to talk to the audience. If there are two people, they should be talking to each other and the audience is overhearing that conversation. 
+
+### Modeling exercises
+
+A great way to help prepare for this type of talk is to watch other people who do it well. Talk shows can be a great example of this. Pay attention to how they ask each other questions, how they react to each other, even how they contradict each other to make a point. Be aware that the host often asks questions that they already know the answer to, for the benefit of the audience.  
+
+### Advantages of two-person talks
+
+* The other person can praise you in a much more credible way
+* One person can play devil's advocate or offer resistance. The changing of the co-presenter's opinion can make it easier for people in the audience to change their opinion
+* One person can offer common misconceptions giving you a chance to clear them up. 
+
+In many presentations, the audience shows up with their own opinions pre-formed. You aren't just providing information, you are trying to change their minds. 
+
+If you only present your model of the world, the audience will  
+autocorrect what you said to match their model of the world. Even presenting clear evidence to the contrary can have a [backfire effect](https://theoatmeal.com/comics/believe) that makes someone even more resistant to your ideas.
+
+
+With two people you have them represent tehir model of the world
+And show how the modle breaks down
+And it can be easier for htem to change hir minds. Intead of thinking I would have neer madet hat mistake
+[Changing minds](https://www.youtube.com/watch?v=eVtCO84MDj8)
+
 ## Tips for Podcasts / Interviews
 ## Event Driven Practice
 * User groups
