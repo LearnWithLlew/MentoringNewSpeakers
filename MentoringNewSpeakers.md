@@ -199,6 +199,8 @@ For example, I go on stage at 10:18 for my 10:30 talk which is set to last 30 mi
 
 ## Setting/Character/Plot/Conflict/Resolution
 
+TODO: start here
+
 ## Role PLaying - Using emotion in your story
 
 If you are telling a sad story, but you yourself are not sad, your audience won't be either. They are going to look to your emotions for cues on how they should feel. This means that if your boss is angry, you need to be using an angry voice. If your team is celebrating, you need to be using a happy, excited voice. 
@@ -253,15 +255,100 @@ If you only present your model of the world, the audience will
 autocorrect what you said to match their model of the world. Even presenting clear evidence to the contrary can have a [backfire effect](https://theoatmeal.com/comics/believe) that makes someone even more resistant to your ideas.
 
 
-With two people you have them represent tehir model of the world
-And show how the modle breaks down
-And it can be easier for htem to change hir minds. Intead of thinking I would have neer madet hat mistake
+With two people you have them represent their model of the world
+And show how the model breaks down
+And it can be easier for them to change their minds. Instead of thinking I would have never made that mistake
 [Changing minds](https://www.youtube.com/watch?v=eVtCO84MDj8)
 
 ## Tips for Podcasts / Interviews
+
+It's surprising how many interviews are hard to remember a half hour later. This is mainly because of an unfortunate pattern that is done in the interview process. The pattern is that the person being interviewed will be asked a direct question by the interviewer, and they will answer that question.
+
+For example:
+
+Interviewer: "What's your favorite food?"
+
+Interviewee: "The cake I had in Milan"
+
+Interviewer: "What made it so great?"
+
+Interviewee: "It had this combination of sugar and cinnamon tha ran through the crust as well as over, and it was delightful"
+
+It's totally natural to respond to a questions with an answer, but it makes for a bad interview. What you need to do is to respond to a question with a story.
+
+
+
+Interviewee: "I need to tell you about this time I was in Milan. We were late getting in. And we just lucked into this cafe. There was this aroma of chocolate and coffee that hits you as you walk through the door. We got coffee too start, but we couldn't start looking at the cake. There was the crunch on the outside and the warm chewiness on the inside. Exactly what we needed for the cold weather. And we changed our thought from we had been dumped off in the city to "this is the best city we could have ended up in "
+
+The problem with answering questions with stories is that it can be very had to think about them in the moment of the interview. I have a simple process that lets me get the best out of my interviews rather than "I should have said this.." the next day. 
+
+### 1. Listen to between 2 and 5 previous episodes of a show to get a sense of its patterns 
+
+Most listeners listen to many episodes of a broadcast. Other guests have never watched an episode, so they will be surprised. They should know a question is coming, even though the interviewer asks the guests every time. Even a small sampling will give you a sense of what to expect so that you can react appropriately.
+
+### 2. Collect your stories
+
+Your stories are like a deck of cards or a list that you can respond with. Just because you prepared the story doesn't mean that you will tell that story. All you are doing is putting the odds in your favour is that you will have a good story to respond with. You might not tell it, because you never got asked a question that related to it or you thought of a better story to respond with. 
+
+### 3. Flesh our yours stories
+
+There are details that you might need to do some remembering on. For example, when we were in Milan, what was the name of that cafe? Is the person I was with comfortable having their information shared? What is the name of the cake?
+
+### 4. Practice your plug
+
+Often when you're on a show, they will ask if you have anything that you want to share. People are often not prepared for this. Practice a clear concise interesting plug.
+
+
 ## Event Driven Practice
-* User groups
-* No new talks at conferences
+A rule I have for myself is:
+> No new talks at international conferences  
+
+This rule gives me a combination of a better talk and a less stressful conference. If I am giving a new talk, I am not enjoying the conference, rather stuck in my room trying to prepare. 
+
+Also the iteration allows me to get the stupid out of my talk. And even after doing this for year, every talk still has a decent amount of stupid in it that needs to get out. 
+
+For some people, there has to be an event for practice to occur.
+
+When you are giving a talk, you are going to need iterations of practice and the easiest way to do that is to schedule them at lower pressure events.  For example, comedians will break in jokes at local comedy clubs. You need to do the same thing for your presentation. Here is the ladder of low pressure events. 
+
+Practice your presentation:
+1. with two or more friends
+2. at work
+3. at a local user group or meetup group
+4. at a local event
+5. at the event you're targeting
+
+Try to get as many iterations as possible before your target event. And try to space them out as much as possible.
+
+Usually the first thing I do when a conference accepts a new talk I'm developing is to schedule my first practice run.
+
+## Changing your talk
+
+One thing that comes up a lot is that in the course of developing your presentation, you might have some huge changes. This is OK. Really. The one thing that you have to stay focused to is that the title of your talk is still a relevant title to what you're presenting. But you can take great liberty with the summary and abstract. In the end, your responsibility is that the people who show up to the session have a great experience. If your session doesn't match the title, they'll feel deceived. They probably haven't read your summary or abstract.
+
+## How people choose which talk to attend
+
+I believe that people choose which talk to attend in the following order:
+
+1. who is presenting: This is completely pass/fail. The Beatles are playing? I'm going. Someone I haven't heard of? Their name makes no effect. 
+2. the topic: Otherwise, I'm mainly going to reject by topic. I'm going to sort possibilities by things I'm interested in and things I'm not interested in. 
+3. level: Mostly, the more introductory the level, the more likely I'm going to want to see the talk. For example, Getting started with Kubernetes is more appealing than using Kubernetes in Google Cloud native for security enhancements. Example of entry level titles include: Getting started with..., Intro to..., ... for beginners,...101
+4. your competition: You are going up against the Beatles? People aren't showing up to your talk.
+
+
+### A Clear Title
+You have no control over any of the things other than #2. Make sure the person coming to your talk can understand the topic of the talk from the title. What you don't want is someone to say, "I wish I knew that was being talked about. I would have loved to see it."
+
+The person who is presenting a talk may be the worst person to pick the title. They're typically inclined to pick something clever that makes sense after you've seen the talk. What you want is a title that is clear to someone who is not familiar with the talk. Here are two methods to achieve this. 
+
+#### 1. Ask the audience what the title should be
+
+When you are doing one of you practice sessions, ask the audience to all write down what they think the title of the talk should be. Whatever the majority says, should probably be the title. 
+
+#### 2. Survey for clarity
+
+Alternatively, you can ask people who do not know what the talk is about what they think the talk is about based only on the title. Don't argue with them. Change the titles when you don't hear what you expect.  Repeat until the title and survey do match.
+
 ## Appendix A: Short Reference
 
 # Short Reference <!-- include: ShortReference.md -->
