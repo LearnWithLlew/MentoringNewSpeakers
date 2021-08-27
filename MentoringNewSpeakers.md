@@ -59,18 +59,18 @@ This book is for anyone who wants to speak with more confidence and change the w
 It is also for people who are mentoring new speakers themselves and would like some guidance on what to do, and what exercises might fix the problems that they are detecting. Many times the mentor knows what's wrong. It is obvious to them, however, getting the new person to walk a path to the solution may be difficult. 
 
 When Llewellyn started mentoring people, he would say,  
-> "You need to tell a story "
-And they would reply,
-> "I *am* telling a story." 
+"You need to tell a story "
+And they would reply, "I *am* telling a story." 
 
- These exercises helped him to get them to move.  
- This is why we have collected these exercises for you here.
-
+ The exercises we have collected here helped him to get them to move. Whether for your own presentation, or for someone you are mentoring, we hope they can help you do the same.
+ 
 ## The importance of practice
 
 ## 1. Give the talk
+[//]: # "Comment: I am never ready to do this is written in Gillian's voice, but it isn't clear that we've switched POV from we to Gillian. Make the switch explicit"
 The very first thing that Llewellyn has people do when they ask him to help them with a talk is to ask them to give the talk to him. They are never ready to do this. I am never ready to do this. That's ok. Our goal is not to give a good talk. It is only to give a talk. Doing this will force something to come out of your mouth. And then we can start to work on that. 
 
+[//]: # "Comment: Why is 'Zoom' quoted here?"
 We are going to record this first attempt. It doesn't matter if it only lasts five minutes for an hour-long session; we need to capture something. And we are going to want to be able to review it. Usually, Llewellyn simply uses his phone for this, or if on 'Zoom' he will hit the record button. These recordings are not permanent and are deleted immediately after watching them.
 
 **note:** If the person is extremely nervous about being recorded. I suggest using their phone so that they have complete control over the recording. 
