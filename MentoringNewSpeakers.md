@@ -117,6 +117,7 @@ Very often, people find it hard to actually tell a story. This exercise (from Ke
 1. Repeat for each sentence.
 The power of this exercise is in seeing how much story you have vs summary. For many new speakers, they end up with 100% summary. To be clear, the goal is not to have 100% story. The goal is not 100% but you need it to be more balanced.
 
+[//]: This subtitle is confusing Could you be more specific about how this is different from line 109? Or maybe this should be moved into that section.
 ### Story vs. Summary
 
 > We were unprepared for the outage.
@@ -131,10 +132,12 @@ Notice **story** allows you to relive the experience whereas **summary** allows 
 
 
 
-
+[//]: Does this belong under 3 #'s?
 ## Being true to the story - not the facts
 
 There is an essence of your story which you are trying to convey to your audience. There are also historical facts of your story. Sometimes these can confuse or muddy your story. Sometime these can be in direct conflict. My advice is to prioritize your story and its message. As such, use facts when they are convenient. And disregard them or even make them up when they are not. 
+
+[//]: You may need to provide examples or more details. This sounds like you're telling talkers to be dishonest with their audience if the facts are inconvenient. How is it any different from fake news? You risk your credibility as an author if you don't flesh this out a bit more.
 
 > “Get your facts first, and then you can distort them as much as you please.”
 > 
