@@ -350,6 +350,8 @@ Practice your presentation:
 4. at a local event
 5. at the event you're targeting
 
+[://] # "How many practise sessions should people do? For a new speaker, what is an average guide on the number of live presentations that will make their talk good?"
+
 [://] # "Starting a sentence with And makes me feel weird. It's not illegal, but this one is a fragment"
 Try to get as many iterations as possible before your target event. And try to space them out as much as possible.
 
@@ -366,15 +368,17 @@ I believe that people choose which talk to attend in the following order:
 1. who is presenting: This is completely pass/fail. The Beatles are playing? I'm going. Someone I haven't heard of? Their name makes no effect. 
 1. the topic: Otherwise, I'm mainly going to reject by topic. I'm going to sort possibilities by things I'm interested in and things I'm not interested in. 
 1. level: Mostly, the more introductory the level, the more likely I'm going to want to see the talk. For example, Getting started with Kubernetes is more appealing than using Kubernetes in Google Cloud native for security enhancements. Examples of entry level titles include: 
- 
-** Getting started with..., Intro to..., ... for beginners,...101
+    1. **Getting started with** TDD
+    2. **Intro to** Monster Kiting in Don't Starve Together
+    3. Progressive Kaizen **for beginners**
+    4. Tourtière and other Québecois Food **101**
 1. your competition: You are going up against the Beatles? People aren't showing up to your talk.
 [://] # "The examples in point 3 would be better as concrete examples, separated by line, with the relevant points bolded. I did it above as an example
 
 ### A Clear Title
 You have no control over any of the things other than #2. Make sure the person coming to your talk can understand the topic of the talk from the title. What you don't want is someone to say, "I wish I knew that was being talked about. I would have loved to see it."
 
-The person who is presenting a talk may be the worst person to pick the title. They're typically inclined to pick something clever that makes sense after you've seen the talk. What you want is a title that is clear to someone who is not familiar with the talk. Here are two methods to achieve this. 
+The person who is presenting a talk may be the worst person to pick the title. They're typically inclined to pick something clever that makes sense after you've seen the talk. What you want is a title that is clear to someone who is not familiar with the talk. Here are two methods to achieve this:
 
 #### 1. Ask the audience what the title should be
 
