@@ -152,7 +152,9 @@ Almost every business book tells the story of someone at a failing company who t
 
 It's the specifics of **your story** that allows others to learn from it as if they have gone through it themselves. If you just say what you learned, you remove the chance for them to have those learning be impactful
 
-What will make your story, **your story** is the specifics. What are people's names? What were the details of that argument? Details make the story real, more so than the lesson.   
+What will make your story, **yours** is the specifics. What are people's names? What were the details of that argument? Details make the story real, more so than the lesson.   
+
+[//]: # Both of these examples are teargeted to be understood by the same narrow-ish demographic (women between the ages of 20-45, who grew up in secular households in North America or Europe). Reading Twilight, Fifty Shades ofGrey, & watching Pretty Woman was inappropriate/sinful in my church, and my church was pretty mainstream. I did read Twilight and watch Pretty woman after I left the church, but you could be excluding some women or men, or people from other walks of life who aren't as risqué as I was. If you would like to make this more inclusive, It could be good to include stories that are G-rated.
 
 *Twilight and Fifty Shades of Gray are the same story.
 *Cinderella and Pretty Woman
@@ -162,7 +164,7 @@ What are the details that let you live the story as if you were there? Does it f
  Very often when speakers are trying to tell their story, they make it very generic so that it will fit any listener. Unfortunately, abstract lessons are the opposite of how people learn and not what a speaker should do.
 
 
-
+[://]# From the headings and the titles, I feel like everything above this, all the way to section 2 should be 3 #'s or deeper.
 
 
 
@@ -179,7 +181,10 @@ As such, presentations are different from the script at play. And they are more 
 
 Instead, it is better to be able to adjust how you present each section. And be aware of the time. A great exercise to help speakers become comfortable with adjusting their time is to give your presentation at wildly different time scales. Here's how:
 
+[://]# "Something I'm not clear on here: Am I supposed to do this exercise once? Or practise each of these multiple times until I'm really good and happy with the result? Am I supposed to write 3 separate talks on top of the one I have?"
+
 ### Assumptions and adjustments
+[://] # "It could be good to do this one without a heading."
 
 Many of the first-time speakers that I'm working with are giving ten to twenty minute talks with ten to twenty slides. The following times are based on that structure. If you are giving a much longer or much shorter talk, adjust accordingly. Likewise, if you're slide to talk ratio is much different, you will often need to adjust.
 
@@ -192,24 +197,27 @@ This sounds ridiculous but set a one-minute time and try to speed run through yo
 Like above this is going to be a much quicker than normal telling. It will build on the essential core and give you enough time so that you don't need to cut out sections or slides. This is really helpful when you realize that you are running behind while onstage.
 
 ### #3 The fifty-minute talk, one slide of
+[://] # "This title doesn't tell me much, maybe something like 5 minutes per slide?"
 
-Here we want to work on really delving into each slide. But we don't want to take fifty minutes to do the whole talk. So pick a slide randomly from the deck and set a five-minute timer for just that slide. It's best if the slide is smaller. So that you really have to pull out details and depth. This is great for when you have more time or you realize that you need more focus in this are for this audience.
+Here we want to work on really delving into each slide. But we don't want to take fifty minutes to do the whole talk. So pick a slide randomly from the deck and set a five-minute timer for just that slide. It's best if the slide is smaller. So that you really have to pull out details and depth. This is great for when you have more time or you realize that you need more focus in this area for this audience.
 
 ### The importance of clocks 
 
 Now that you have stretched your talk to its limits and compressed it to its essence, you can safely adjust the length on the fly during the presentation.
 
-To do this, you will need some sort of clock plus an idea of were you would like to be in your presentation at key intervals. This way, you can tell if you are running fast or slow, and adjust accordingly. This means you want to know 13 minutes in that you need to speed up, not find out 5 minutes before the end that you need to cut off the end of the story. 
+To do this, you will need some sort of clock plus an idea of where you would like to be in your presentation at key intervals. This way, you can tell if you are running fast or slow, and adjust accordingly. This means you want to know you need to speed up 13 minutes in, not find out 5 minutes before the end that you need to cut off the end of the story. 
 
 If you are presenting remotely, you will need a clock or count-down timer in your office, visible while you are looking at your camera. If you are presenting in person, you should assume that this will not be provided. Instead set up a count down timer on your phone or tablet. And bring a stand or a holder so you can make it visible to you from the stage. 
 
 For example, I go on stage at 10:18 for my 10:30 talk which is set to last 30 minutes. I immediately pull out my iPad and set the count down timer for 42 minutes and start it. I place it on the side of the stage, visible to me. I know that when it gets down to thirty minutes, I need to start my presentation. When it hits zero, I need to be done.  
 
 ## Setting/Character/Plot/Conflict/Resolution
+[://] # "I feel like this section belongs with the story section, though I'm not sure what you'll put here"
 
 TODO: start here
 
-## Role PLaying - Using emotion in your story
+## Role Playing - Using emotion in your story
+[://] # "I also feel like this section belongs with the story section"
 
 If you are telling a sad story, but you yourself are not sad, your audience won't be either. They are going to look to your emotions for cues on how they should feel. This means that if your boss is angry, you need to be using an angry voice. If your team is celebrating, you need to be using a happy, excited voice. 
 
@@ -219,11 +227,14 @@ Because this feels more appropriate in theatre than a boardroom, it's going to t
 
 ### Developing your character's characteristics
 
+[://] # "I also feel like this section belongs with the story section"
+[://] # "This example illustrates things really well, but this section doesn't feel finished. I'll leave the comments for now"
+
 For example, one of our characters was Bob the salesman. 
 
 "What's Bob like?" I asked. 
 
-"Oh, he's big and boisterous. Whenever he talks , he waves his hands around alot. And he like to make statements like 'This is going to the be the best ever!' He's very different than Suzie. 
+"Oh, he's big and boisterous. Whenever he talks , he waves his hands around alot. And he like to make statements like 'This is going to be the best ever!' He's very different than Suzie. 
 
 "Oh, What's Suzie like?"
 
@@ -239,15 +250,20 @@ Take a single character and start by just having them say the parts of their sto
 
 ## Two Person Talks
 
+[://]# "This should be section number 4"
+
 There are many advantages to giving a talk with a co-presenter. Unfortunately, many people approach this as a way of dividing a talk into two sections, one for each speaker. Often they will interleave these sections to make it less obvious, but this is not a good technique for a two person talk. The rule that I try to follow is this. 
 
->A two person should not be able to be delivered by a single person.
+[://] # "Why? I hear your opinion here, but what makes this better? What is behind your reasoning?"
+
+>A two person talk should not be able to be delivered by a single person.
 
 A great example of a two person presentation is the skit "Who's on first? What's on second?" by Abbott and Costello. First, this follows the rule that this couldn't be done by just Abbott or just Castello. It also takes advantage of each personality to play off each other. Finally they are talking to each other, instead of each of them taking turns talking to the audience. 
 
 This final difference is one of the major differences between a one person talk and two-person talk. In a one-person talk, you have to talk to the audience. If there are two people, they should be talking to each other and the audience is overhearing that conversation. 
 
 ### Modeling exercises
+[://] # "I don't think this header is needed unless you intend to flesh this out more"
 
 A great way to help prepare for this type of talk is to watch other people who do it well. Talk shows can be a great example of this. Pay attention to how they ask each other questions, how they react to each other, even how they contradict each other to make a point. Be aware that the host often asks questions that they already know the answer to, for the benefit of the audience.  
 
@@ -268,7 +284,11 @@ And show how the model breaks down
 And it can be easier for them to change their minds. Instead of thinking I would have never made that mistake
 [Changing minds](https://www.youtube.com/watch?v=eVtCO84MDj8)
 
+[://] # "I love this advantages section. Nicely done!"
+
 ## Tips for Podcasts / Interviews
+
+[://] # "Could you maybe have a section titled "Tips" that the following sections could be under?"
 
 It's surprising how many interviews are hard to remember a half hour later. This is mainly because of an unfortunate pattern that is done in the interview process. The pattern is that the person being interviewed will be asked a direct question by the interviewer, and they will answer that question.
 
@@ -288,11 +308,12 @@ It's totally natural to respond to a questions with an answer, but it makes for 
 
 Interviewee: "I need to tell you about this time I was in Milan. We were late getting in. And we just lucked into this cafe. There was this aroma of chocolate and coffee that hits you as you walk through the door. We got coffee too start, but we couldn't start looking at the cake. There was the crunch on the outside and the warm chewiness on the inside. Exactly what we needed for the cold weather. And we changed our thought from we had been dumped off in the city to "this is the best city we could have ended up in "
 
-The problem with answering questions with stories is that it can be very had to think about them in the moment of the interview. I have a simple process that lets me get the best out of my interviews rather than "I should have said this.." the next day. 
+[://] # "The missing 'r' in this sentence gave the google reader a Boston accent :-P"
+The problem with answering questions with stories is that it can be very hard to think about them in the moment of the interview. I have a simple process that lets me get the best out of my interviews rather than "I should have said this.." the next day. 
 
 ### 1. Listen to between 2 and 5 previous episodes of a show to get a sense of its patterns 
 
-Most listeners listen to many episodes of a broadcast. Other guests have never watched an episode, so they will be surprised. They should know a question is coming, even though the interviewer asks the guests every time. Even a small sampling will give you a sense of what to expect so that you can react appropriately.
+Most listeners listen to many episodes of a broadcast. Some guests have never watched an episode, so they will be surprised. They should know a question is coming, even though the interviewer asks the guests every time. Even a small sampling will give you a sense of what to expect so that you can react appropriately.
 
 ### 2. Collect your stories
 
