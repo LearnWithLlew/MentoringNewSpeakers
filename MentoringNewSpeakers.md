@@ -366,6 +366,7 @@ I believe that people choose which talk to attend in the following order:
 1. who is presenting: This is completely pass/fail. The Beatles are playing? I'm going. Someone I haven't heard of? Their name makes no effect. 
 1. the topic: Otherwise, I'm mainly going to reject by topic. I'm going to sort possibilities by things I'm interested in and things I'm not interested in. 
 1. level: Mostly, the more introductory the level, the more likely I'm going to want to see the talk. For example, Getting started with Kubernetes is more appealing than using Kubernetes in Google Cloud native for security enhancements. Examples of entry level titles include: 
+ 
  ** Getting started with..., Intro to..., ... for beginners,...101
 1. your competition: You are going up against the Beatles? People aren't showing up to your talk.
 [://] # "The examples in point 3 would be better as concrete examples, separated by line, with the relevant points bolded. I did it above as an example
