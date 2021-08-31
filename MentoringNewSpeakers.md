@@ -374,7 +374,26 @@ Many people helped proofread and offered advice in the creation of this book. Th
 Maybe not:
 ___
 ## Slides
-### Anti Patterns
+### Anti Patterns and How to Fix them
+
+* Too much content on one slide - Break it into multiple slides one point per slide, omit unnecessary detail
+* Tiny picture - make the picutre as big as possible
+* Too much stuff to talk about - Summarize
+* No Chapters - Group ideas in subsections
+* Raw data - Add visual for comparison
+* The important part of the slide is not on the slide - add the message to the slide
+* Talking through a complex message -add animation for visual re-inforcement
+* Doing the math for the audience when they have the variables -let the audience calculate it.
+* Putting the information too far away - put the data beside the relevant paf the picture
+* Bullet point sentences causes audience to read rather than listen - scannable bullet points
+* too much detail - only show what really matters
+* diagramming something like scientific data when its not - 
+* skewed results - show scale including 0 and 100%
+* impressed and confused - clear and understood
+* expecting people to see the thing that isn't on the diagram - include the message in the diagram
+
+
+
 
 * Props
 * Contrast - data & diffence
