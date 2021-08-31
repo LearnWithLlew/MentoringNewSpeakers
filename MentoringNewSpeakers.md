@@ -31,10 +31,20 @@ By [Llewellyn Falco](http://llewellynfalco.blogspot.com/) & [Gillian M Lee]()
     * [Modeling exercises](#modeling-exercises)
     * [Advantages of two-person talks](#advantages-of-two-person-talks)
   * [Tips for Podcasts / Interviews](#tips-for-podcasts--interviews)
+    * [1. Listen to between 2 and 5 previous episodes of a show to get a sense of its patterns](#1-listen-to-between-2-and-5-previous-episodes-of-a-show-to-get-a-sense-of-its-patterns)
+    * [2. Collect your stories](#2-collect-your-stories)
+    * [3. Flesh our yours stories](#3-flesh-our-yours-stories)
+    * [4. Practice your plug](#4-practice-your-plug)
   * [Event Driven Practice](#event-driven-practice)
+  * [Changing your talk](#changing-your-talk)
+  * [How people choose which talk to attend](#how-people-choose-which-talk-to-attend)
+    * [A Clear Title](#a-clear-title)
+      * [1. Ask the audience what the title should be](#1-ask-the-audience-what-the-title-should-be)
+      * [2. Survey for clarity](#2-survey-for-clarity)
   * [Appendix A: Short Reference](#appendix-a-short-reference)
     * [Special Thanks](#special-thanks)
-  * [Slides](#slides)<!-- endToc -->
+  * [Slides](#slides)
+    * [Anti Patterns](#anti-patterns)<!-- endToc -->
 
 ## How to Use this book
 
