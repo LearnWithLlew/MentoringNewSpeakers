@@ -381,6 +381,9 @@ ___
 * Too much stuff to talk about - Summarize
 * No Chapters - Group ideas in subsections
 * Raw data - Add visual for comparison
+  * Show don't tell 
+    * Represent object even with simple shapes
+* Animation is for telling time in a story - either by frames in a comic or actually animation
 * The important part of the slide is not on the slide - add the message to the slide
 * Talking through a complex message -add animation for visual re-inforcement
 * Doing the math for the audience when they have the variables -let the audience calculate it.
